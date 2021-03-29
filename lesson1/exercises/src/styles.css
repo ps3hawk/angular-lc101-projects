@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+/* html {
+    
+} */
+
+body{ 
+    background-image: url(assets/img/3.jpg);
+    background-size: inherit;
+    /* background-repeat:no-repeat;  */
+    text-align: center;
+    color: white;
+    position:inherit
+    
+}
+.container {
+    /* grid-template-columns: inherit; */
+    justify-content: center;
+    padding-top: 30em;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1 {
+    
+}
+
+.title {
+    padding: 10em;
+}

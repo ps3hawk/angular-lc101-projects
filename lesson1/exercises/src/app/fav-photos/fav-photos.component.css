@@ -1,13 +1,12 @@
 h3 {
-   color: brown;
+   text-emphasis-color: rgb(2, 41, 2);
+   font-size: 100px;
 }
 
 
 img {
-   float: left;
-   margin-left: 300px 0px 0px 30px;
-   text-align: center;
+   
    max-width: auto;  
-   height: 1500px;  
+   height: 400px;  
    padding-block-end: 40px;
 }
